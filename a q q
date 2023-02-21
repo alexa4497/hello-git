@@ -1,0 +1,66 @@
+[33mcommit 93c18e309f6858588431974554069531a56d2fca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Mon Feb 20 19:05:29 2023 -0500
+
+    hello3
+
+[33mcommit bbee7621524173fa5784d27bda3d77150b97f649[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Mon Feb 20 00:52:15 2023 -0500
+
+    git 3 login
+
+[33mcommit 096e74b9dc4004eb4475e10239eb6fbf0bc0ded2[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Mon Feb 20 00:50:44 2023 -0500
+
+    mergeado sisiiss
+
+[33mcommit 25ab745d719dc8dd8f85e1c29b6edb3106a3379e[m
+Merge: 5891b97 3a530ea
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Mon Feb 20 00:43:34 2023 -0500
+
+    Merge branch 'main' into login
+
+[33mcommit 3a530ea0d59a4936fa919dd553cba757561672b8[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Mon Feb 20 00:38:28 2023 -0500
+
+    git 3
+
+[33mcommit 5891b9788b3ab8dfa324ac7379d1e3b94d11d4a6[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 23:20:12 2023 -0500
+
+    rama login
+
+[33mcommit dcfeacaced257067edbb2de1b69c04b4ddf7e313[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 21:14:50 2023 -0500
+
+    quinto commit
+
+[33mcommit 785497ee6acd1431bb09947828045b76f9006706[m[33m ([m[1;33mtag: claseq[m[33m)[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 19:07:46 2023 -0500
+
+    cambio raro
+
+[33mcommit 8ea63d90a1a7d0add38afed0b9350acb6244474b[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 18:27:40 2023 -0500
+
+    añado gitignore
+
+[33mcommit 88c4ac0c4c1e9a86a33de55a99ce56cdd39834ee[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 17:43:37 2023 -0500
+
+    mi segundo commit
+
+[33mcommit 4a5bdb9b46487731e574c4c98262121bd9d231bc[m
+Author: alex44 <alexa.carolina4497@gmail.com>
+Date:   Sun Feb 19 17:38:22 2023 -0500
+
+    mi primer commit
